@@ -10,7 +10,7 @@ int main() {
         cout << "\n===== ATM MENU =====\n";
         cout << "1. Check Balance\n";
         cout << "2. Deposit\n";
-        cout << "3. Withdraw\n";
+        cout << "3. Withdraw\n";y
         cout << "4. Exit\n";
         cout << "Enter your choice: ";
         cin >> choice;
